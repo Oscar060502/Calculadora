@@ -10,3 +10,4 @@ Formato de operación: número operación número, ejemplo: "5 + 3" para sumar 5
 + división:/
 
 Escribe 'salir' en cualquier momento para cerrar la calculadora
+#### Realizado por Oscar Anguiano
